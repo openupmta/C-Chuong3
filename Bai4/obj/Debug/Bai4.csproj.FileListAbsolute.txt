@@ -1,0 +1,6 @@
+D:\C#Net\Chuong2\Bai4\bin\Debug\Bai4.exe.config
+D:\C#Net\Chuong2\Bai4\bin\Debug\Bai4.exe
+D:\C#Net\Chuong2\Bai4\bin\Debug\Bai4.pdb
+D:\C#Net\Chuong2\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\C#Net\Chuong2\Bai4\obj\Debug\Bai4.exe
+D:\C#Net\Chuong2\Bai4\obj\Debug\Bai4.pdb

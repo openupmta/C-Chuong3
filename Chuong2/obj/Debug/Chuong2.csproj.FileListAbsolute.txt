@@ -1,0 +1,7 @@
+D:\C#Net\Chuong2\Chuong2\bin\Debug\Chuong2.exe.config
+D:\C#Net\Chuong2\Chuong2\bin\Debug\Chuong2.exe
+D:\C#Net\Chuong2\Chuong2\bin\Debug\Chuong2.pdb
+D:\C#Net\Chuong2\Chuong2\obj\Debug\Chuong2.csprojAssemblyReference.cache
+D:\C#Net\Chuong2\Chuong2\obj\Debug\Chuong2.csproj.CoreCompileInputs.cache
+D:\C#Net\Chuong2\Chuong2\obj\Debug\Chuong2.exe
+D:\C#Net\Chuong2\Chuong2\obj\Debug\Chuong2.pdb
